@@ -7,7 +7,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Copilot designer]((https://www.bing.com/images/create))
+- [Copilot designer](https://www.bing.com/images/create)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
@@ -15,6 +15,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Copilot designer Para gerar capas
+
+## Ouça aqui
+[Inteligência na Prática: Soluções com ChatGPT](assets/ChatGPT-podcast.mp3)
 
 ## Prompts
 ### Titulo
